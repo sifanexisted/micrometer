@@ -2,7 +2,7 @@
 
 Code for [paper]() Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials.
 
-![Micrometer](./figures/micrometer.png)
+![Micrometer](./figures/micrometer_master_fig.png)
 
 
 ## Getting Started
