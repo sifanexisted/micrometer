@@ -118,6 +118,14 @@ python3 main.py --config=configs/finetune_ch.py:cvit_b_16
 ## Checkpoints
 
 
+We provide pre-trained model checkpoints for the best configurations. These checkpoints can be used to initialize the model for further training or evaluation.
+
+
+| Model Configuration | Checkpoint |
+|----------------------|--------------|
+| Micrometer-L-8       | [Link](https://drive.google.com/file/d/1BwcGan0OMqYRGgqZ3_PPc2NJ9CSeY5dw/view?usp=drive_link)     |
+| Micrometer-L-16      | [Link](https://drive.google.com/file/d/1vcmCbItXgAXF8OM_UZCIiEMbqZX6oxAX/view?usp=drive_link)     |
+
 
 
 
