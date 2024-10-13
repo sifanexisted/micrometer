@@ -131,6 +131,15 @@ We provide pre-trained model checkpoints for the best configurations. These chec
 
 ## Citation
 
+Our work is motivated by our previous research on bridging operator learning and conditioned neural fields. If you find this work useful, please consider citing the following papers: 
+
+    @article{wang2024bridging,
+      title={Bridging Operator Learning and Conditioned Neural Fields: A Unifying Perspective},
+      author={Wang, Sifan and Seidman, Jacob H and Sankaran, Shyam and Wang, Hanwen and Pappas, George J and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2405.13998},
+      year={2024}
+    }
+
     @article{wang2024micrometer,
       title={Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials},
       author={Wang, Sifan and Liu, Tong-Rui and Sankaran, Shyam and Perdikaris, Paris},
