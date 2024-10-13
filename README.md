@@ -1,6 +1,6 @@
 # Micrometer: Micromechanics Transformer  for Predicting the Mechanical Response of Heterogeneous Materials
 
-Code for [paper](https://arxiv.org/abs/2410.05281v1) Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials.
+Code for [paper](https://arxiv.org/abs/2410.05281v1) *Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials.*
 
 ![Micrometer](./figures/micrometer_master_fig.png)
 
@@ -131,7 +131,7 @@ We provide pre-trained model checkpoints for the best configurations. These chec
 
 ## Citation
 
-Our work is motivated by our previous research on bridging operator learning and conditioned neural fields. If you find this work useful, please consider citing the following papers: 
+Our work is motivated by our previous research on *bridging operator learning and conditioned neural fields*. If you find this work useful, please consider citing the following papers: 
 
     @article{wang2024bridging,
       title={Bridging Operator Learning and Conditioned Neural Fields: A Unifying Perspective},
