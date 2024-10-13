@@ -1,6 +1,6 @@
 # Micrometer: Micromechanics Transformer  for Predicting the Mechanical Response of Heterogeneous Materials
 
-Code for [paper]() Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials.
+Code for [paper](https://arxiv.org/abs/2410.05281v1) Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials.
 
 ![Micrometer](./figures/micrometer_master_fig.png)
 
@@ -131,6 +131,12 @@ We provide pre-trained model checkpoints for the best configurations. These chec
 
 ## Citation
 
+    @article{wang2024micrometer,
+      title={Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials},
+      author={Wang, Sifan and Liu, Tong-Rui and Sankaran, Shyam and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2410.05281},
+      year={2024}
+    }
 
 
 
